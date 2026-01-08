@@ -218,6 +218,7 @@
     display: flex;
     align-items: center;
     gap: 60px ;
+    margin-bottom: 100px;
 
 }
 
@@ -262,4 +263,33 @@
     display: flex;
     align-items: center;
     gap: 16px ;
+}
+
+.early-access{
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 80px 200px;
+    background-color: #F7F6F2 ;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 16px;
+    
+}
+
+ .early-access svg{
+    width: 20px ;
+    height: 20px ;
+    fill: #FFFFFF ;
+ }
+
+ .foot-note{
+    display: flex;
+    gap: 26px;
+    margin-top: 16px;
+ }
+
+
+ .icon-btn:hover {
+    background-color: #387a53;
 }
