@@ -213,3 +213,53 @@
     line-height: 20px;
     
 }
+
+.solution{
+    display: flex;
+    align-items: center;
+    gap: 60px ;
+
+}
+
+.main-content{
+    display: flex;
+    flex-direction: column;
+    gap: 30px ;
+}
+
+.content-solution{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.content-solution h2{
+    font-size: 48px ;
+    font-weight: 700 ;
+    line-height: normal ;
+    color: #191F28 ;
+}
+
+.content-solution label{
+    color: #469165;
+}
+
+.content-solution p{
+    color: #627382 ;
+    font-size: 16px ;
+    font-weight: 400 ;
+    line-height: 28px ;
+    line-height: normal;
+}
+
+.bullet-point{
+    display: flex;
+    flex-direction: column;
+    gap: 24px ;
+}
+
+.items{
+    display: flex;
+    align-items: center;
+    gap: 16px ;
+}
