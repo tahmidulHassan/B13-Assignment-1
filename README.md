@@ -41,9 +41,9 @@
 
 ![Navbar Section](Sections/Navbar.png)
 
-- A logo aligned to the left
+<!-- - A logo aligned to the left
 - Menu items centered (as shown in Figma)
-- A button aligned to the right
+- A button aligned to the right -->
 
 ---
 
@@ -51,15 +51,15 @@
 
 ![Banner Section](Sections/Banner.png)
 
-- A full-width background image
+<!-- - A full-width background image
 - Center-aligned heading and text (as per Figma)
-- Two buttons below the text, aligned like the Figma design
+- Two buttons below the text, aligned like the Figma design -->
 
 ---
 
 ### 🔹 Notes Section
 
-![Notes Section](Sections/Notes%20Section.png)
+<!-- ![Notes Section](Sections/Notes%20Section.png)
 
 - Section heading and subtitle at the top
 - Four cards aligned in a single row
@@ -67,7 +67,7 @@
 
   - An icon
   - Icon background color similar to Figma
-  - A title and subtitle
+  - A title and subtitle -->
 
 ---
 
@@ -75,25 +75,25 @@
 
 ![Second Brain Section](Sections/Second%20Brain%20Section.png)
 
-- An image on the left
+<!-- - An image on the left
 - On the right side:
 
   - Section message
   - Title
   - Description
 
-- A list of items below the description
+- A list of items below the description -->
 
 ---
 
 ### 🔹 Footer Section
 
-![Footer Section](Sections/Footer.png)
+<!-- ![Footer Section](Sections/Footer.png)
 
 - A logo on the left
 - Social media links with icons on the right
 - A horizontal divider
-- Copyright message below the divider
+- Copyright message below the divider -->
 
 ---
 
@@ -101,7 +101,7 @@
 
 ### 🔸 Early Access Section
 
-![Early Access Section](Sections/Early%20Access%20Section.png)
+<!-- ![Early Access Section](Sections/Early%20Access%20Section.png)
 
 - A centered title and subtitle
 - Below the subtitle:
@@ -109,15 +109,15 @@
   - A simple message
   - A “Get Early Access” button with an icon
 
-- Two ending messages below the button
+- Two ending messages below the button -->
 
 ---
 
 ### 🔸 Interaction & Code Quality
 
 - Hover effects on all buttons
-- Minimum **5 GitHub commits**
-- **No Lorem Ipsum** text anywhere on the website
+<!-- - Minimum **5 GitHub commits**
+- **No Lorem Ipsum** text anywhere on the website -->
 
 ---
 
